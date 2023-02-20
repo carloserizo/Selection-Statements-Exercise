@@ -1,0 +1,15 @@
+/Users/carlosrizo/Desktop/Desktop - Carlos’s MacBook Pro/repos/Selection-Statements-Exercise/SelectionStatementExercise/bin/Debug/net6.0/SelectionStatementExercise
+/Users/carlosrizo/Desktop/Desktop - Carlos’s MacBook Pro/repos/Selection-Statements-Exercise/SelectionStatementExercise/bin/Debug/net6.0/SelectionStatementExercise.deps.json
+/Users/carlosrizo/Desktop/Desktop - Carlos’s MacBook Pro/repos/Selection-Statements-Exercise/SelectionStatementExercise/bin/Debug/net6.0/SelectionStatementExercise.runtimeconfig.json
+/Users/carlosrizo/Desktop/Desktop - Carlos’s MacBook Pro/repos/Selection-Statements-Exercise/SelectionStatementExercise/bin/Debug/net6.0/SelectionStatementExercise.dll
+/Users/carlosrizo/Desktop/Desktop - Carlos’s MacBook Pro/repos/Selection-Statements-Exercise/SelectionStatementExercise/bin/Debug/net6.0/SelectionStatementExercise.pdb
+/Users/carlosrizo/Desktop/Desktop - Carlos’s MacBook Pro/repos/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.csproj.AssemblyReference.cache
+/Users/carlosrizo/Desktop/Desktop - Carlos’s MacBook Pro/repos/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlosrizo/Desktop/Desktop - Carlos’s MacBook Pro/repos/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.AssemblyInfoInputs.cache
+/Users/carlosrizo/Desktop/Desktop - Carlos’s MacBook Pro/repos/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.AssemblyInfo.cs
+/Users/carlosrizo/Desktop/Desktop - Carlos’s MacBook Pro/repos/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.csproj.CoreCompileInputs.cache
+/Users/carlosrizo/Desktop/Desktop - Carlos’s MacBook Pro/repos/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.dll
+/Users/carlosrizo/Desktop/Desktop - Carlos’s MacBook Pro/repos/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/refint/SelectionStatementExercise.dll
+/Users/carlosrizo/Desktop/Desktop - Carlos’s MacBook Pro/repos/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.pdb
+/Users/carlosrizo/Desktop/Desktop - Carlos’s MacBook Pro/repos/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.genruntimeconfig.cache
+/Users/carlosrizo/Desktop/Desktop - Carlos’s MacBook Pro/repos/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/ref/SelectionStatementExercise.dll
